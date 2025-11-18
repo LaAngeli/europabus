@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST='{"..\\\\node_modules\\\\i18next-http-backend\\\\esm\\\\request.js -> cross-fetch":{"id":4098,"files":["static/chunks/98.097221d1330d0c89.js"]}}';

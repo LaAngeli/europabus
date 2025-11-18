@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://europabus.md/sitemap.xml
-Host: europabus.md
-
-
