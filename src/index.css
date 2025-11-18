@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply font-sans text-gray-900 bg-slate-50 antialiased;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-2xl bg-secondary-500 px-6 py-3 font-semibold text-white shadow-lg shadow-secondary-500/25 transition-all duration-300 hover:-translate-y-0.5 hover:bg-secondary-600;
+  }
+  
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-2xl border-2 border-primary-500 bg-white px-6 py-3 font-semibold text-primary-600 transition-all duration-300 hover:-translate-y-0.5 hover:bg-primary-500 hover:text-white;
+  }
+  
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 rounded-2xl border-2 border-white/40 bg-transparent px-6 py-3 font-semibold text-white transition-all duration-300 hover:bg-white hover:text-primary-600;
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2 text-sm font-medium text-gray-600 transition-colors duration-200 hover:text-primary-600;
+  }
+  
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold text-primary-950 text-center mb-4;
+  }
+  
+  .section-kicker {
+    @apply text-sm font-semibold uppercase tracking-[0.2em] text-secondary-600;
+  }
+
+  .content-card {
+    @apply rounded-3xl bg-white p-6 shadow-lg shadow-primary-900/5 ring-1 ring-slate-100;
+  }
+
+  .glass-card {
+    @apply rounded-3xl border border-white/30 bg-white/80 p-6 shadow-xl backdrop-blur-xl;
+  }
+
+  .grid-divider {
+    @apply border-l border-dashed border-slate-200 pl-6 ml-3;
+  }
+}
+

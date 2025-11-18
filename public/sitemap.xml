@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://europabus.md/</loc>
+    <lastmod>2025-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ro-RO" href="https://europabus.md/"/>
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://europabus.md/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://europabus.md/"/>
+  </url>
+  <url>
+    <loc>https://europabus.md/rute/</loc>
+    <lastmod>2025-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ro-RO" href="https://europabus.md/rute/"/>
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://europabus.md/ru/rute/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://europabus.md/rute/"/>
+  </url>
+  <url>
+    <loc>https://europabus.md/rezervari/</loc>
+    <lastmod>2025-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ro-RO" href="https://europabus.md/rezervari/"/>
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://europabus.md/ru/rezervari/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://europabus.md/rezervari/"/>
+  </url>
+  <url>
+    <loc>https://europabus.md/contacte/</loc>
+    <lastmod>2025-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ro-RO" href="https://europabus.md/contacte/"/>
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://europabus.md/ru/contacte/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://europabus.md/contacte/"/>
+  </url>
+  <url>
+    <loc>https://europabus.md/despre-noi/</loc>
+    <lastmod>2025-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ro-RO" href="https://europabus.md/despre-noi/"/>
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://europabus.md/ru/despre-noi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://europabus.md/despre-noi/"/>
+  </url>
+  <url>
+    <loc>https://europabus.md/faq/</loc>
+    <lastmod>2025-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ro-RO" href="https://europabus.md/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://europabus.md/ru/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://europabus.md/faq/"/>
+  </url>
+  <url>
+    <loc>https://europabus.md/termeni/</loc>
+    <lastmod>2025-11-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ro-RO" href="https://europabus.md/termeni/"/>
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://europabus.md/ru/termeni/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://europabus.md/termeni/"/>
+  </url>
+  <url>
+    <loc>https://europabus.md/politica/</loc>
+    <lastmod>2025-11-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ro-RO" href="https://europabus.md/politica/"/>
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://europabus.md/ru/politica/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://europabus.md/politica/"/>
+  </url>
+  <url>
+    <loc>https://europabus.md/galerie/</loc>
+    <lastmod>2025-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ro-RO" href="https://europabus.md/galerie/"/>
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://europabus.md/ru/galerie/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://europabus.md/galerie/"/>
+  </url>
+</urlset>
+
+
