@@ -1,4 +1,4 @@
 /* export-ignore
-/out -export-ignore
-/out/** -export-ignore
+\!/out -export-ignore
+\!/out/** -export-ignore
 
